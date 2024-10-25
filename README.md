@@ -21,7 +21,7 @@
 <div align = "justify">
   <h2>Applied technologies ​🔧​​​</h2>
   <ul>
-    <li>Java Development Kit (JDK) 11: Facilitates system development and implementation of object-oriented programming concepts.</li>
+    <li>Java Development Kit (JDK) 17: Facilitates system development and implementation of object-oriented programming concepts.</li>
     <li>Maven: Automates dependency management and the build process.</li>
     <li>JUnit Jupiter: Allows you to perform unit tests and validate the correct functioning of each component.</li>
     <li>EasyMock: Mocks dependencies in tests, making it easier to isolate features.</li>
